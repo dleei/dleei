@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div style="display: flex; margin-bottom: 20px;">
- <img style=" margin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=dleei&show_icons=true&theme=transparent">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dleei&layout=compact&theme=transparent">
+ <img style="margin-right: 20px; height: 190px;" src="https://github-readme-stats.vercel.app/api?username=dleei&show_icons=true&theme=transparent">
+ <img style=" height: 190px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dleei&layout=compact&theme=transparent">
 </div>
 
 ## My Skills
@@ -67,6 +67,4 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dleei/dleei/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-![](https://github.com/dleei/dleei/blob/output/github-contribution-grid-snake.svg)
 
