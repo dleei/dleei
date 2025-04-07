@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dleei&layout=compact&theme=transparent)
 
 
+![](https://github.com/dleei/dleei/blob/output/github-contribution-grid-snake.svg)
 
